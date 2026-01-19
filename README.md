@@ -1,2 +1,10 @@
-# python-practice
-My Python practice programs covering basics like variables, operators, and problem solving.
+# Python Practice
+
+This repository contains my daily Python practice.
+
+## Topics Covered
+- Variables
+- Operators
+- Input / Output
+
+I am learning Python fundamentals and uploading my progress daily.
