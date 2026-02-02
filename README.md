@@ -1,9 +1,7 @@
 # Python Practice 🐍
 
-This repository contains my daily Python practice** as I learn Python step by step.
-I am organizing my code topic-wise and uploading it consistently while preparing for **internships (2026)**.
-
----
+This repository contains my daily Python practice** as I learn Python step by step.  
+I am organizing my code topic-wise and uploading it consistently while preparing for **internships (2026)
 
 ## 📂 Folder Structure
 python-practice/
@@ -14,60 +12,92 @@ python-practice/
 │ ├── input_output.py
 │ ├── lists.py
 │ ├── tuples.py
-│ └── dictionary_sets.py
+│ ├── dictionary_sets.py
 │
 ├── control_Flow/
 │ └── conditional_expressions.py
 │
+├── Loops/
+│ └── loops_practice.py
+│
 ├── Functions/
 │ └── functions_and_recursion.py
+│
+├── Numpy/
+│ └── numpy_basics.py
+│
+├── mini_projects/
+│ ├── number_guessing_game.py
+│ ├── calculator.py
+│ └── todo_list.py
 │
 └── README.md
 
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-### ✅ Basics
-- Variables
+### Python Fundamentals
+- Variables & Data Types
 - Operators
 - Input / Output
-- Lists
-- Tuples
-- Dictionary & Sets
+- Lists, Tuples
+- Dictionaries & Sets
 
-### ✅ Control Flow
-- if / elif / else
-- Conditional expressions
-- Decision making problems
+### Control Flow
+- Conditional statements
+- Logical conditions
+- Practice problems
 
-### ✅ Functions & Recursion
+### Loops
+- `for` loops
+- `while` loops
+- Pattern-based problems
+
+### Functions & Recursion
 - User-defined functions
-- Recursive functions
-- Pattern printing
-- Unit conversions
-- Tables and utility programs
+- Recursion basics
+- Problem-solving with functions
+
+### NumPy
+- Creating arrays
+- Shape & dtype
+- Zeros, Ones
+- `arange()` & `linspace()`
+- Indexing & slicing
+- Basic operations
+- Mean, Sum, Max, Min
+
+### Mini Projects
+- Number Guessing Game
+- Calculator
+- To-Do List
 
 ---
 
-## 🚀 Purpose of This Repository
-- Build **strong Python fundamentals**
-- Practice **problem-solving**
-- Maintain **daily GitHub activity**
-- Prepare for **internships & placements**
+## Goal
+
+- Build strong **Python foundations**
+- Move towards **Data Science / AI**
+- Maintain **daily GitHub consistency**
+- Be **internship-ready by 2026**
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 🐍
-- **Editor:** VS Code
-- **Version Control:** Git & GitHub
+## Tech Stack
+- Python
+- NumPy (more coming soon…)
 
 ---
 
-## 👤 Author
-**Pranjal Waghachaure**  
-SY CSE (AI & DS) – MIT-WPU  
+## Next Planned Topics
+- Pandas
+- Data Analysis mini-projects
+- Matplotlib & Seaborn
+- Machine Learning basics
 
-⭐ This repository is updated regularly as I learn new concepts.
+---
+
+⭐ *This repository represents my learning journey and continuous improvement.*
+
